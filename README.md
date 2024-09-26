@@ -1,7 +1,7 @@
 ## <span style="color:white">Welcome!</span>
 <span style="color:white">**I am grateful for your visit to my profile. 
 I am constantly working to expand and improve it. 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/adukefan/) or [Telegram](https://t.me/aDukeFan) 
+Feel free to connect with me on [Telegram](https://t.me/aDukeFan) 
 if you're interested in discussing potential collaborations or opportunities. 
 Thank you!** </span>
 ### <span style="color:orange">#JavaDeveloper #openToWork </span>
